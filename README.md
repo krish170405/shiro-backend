@@ -38,10 +38,7 @@ This repository contains my direct contributions to the backend system, includin
 - MCP server configuration for Gmail, Slack, Notion, WhatsApp, Calendar, and more
 - Integration of hierarchical agent logic using FastAPI and context-based decision routing
 
-## Running Locally
+## Hackathon Outcome
+We were awared second price and won a prize of INR 75,000
 
-To run the backend locally:
 
-```bash
-pip install -r requirements.txt
-uvicorn main:app --reload
