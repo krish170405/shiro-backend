@@ -1,0 +1,4 @@
+fastapi
+uvicorn[standard]
+# Add the 'agents' library if it's installed via pip
+# If 'agents' is a local module/package, ensure it's discoverable in your Python path 
